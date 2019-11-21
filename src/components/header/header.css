@@ -1,0 +1,42 @@
+.header-outer {
+  box-shadow: 0px 0px 90px 3px rgba(0, 0, 0, 0.2)
+}
+
+.header {
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 20px;
+}
+
+.title {
+  position: relative;
+}
+
+.logo {
+  width: 40px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.search {
+  padding-top: 4px;
+}
+
+.cart {
+}
+
+.cart i {
+  font-size: 35px;
+  margin-right: 6px;
+}
+
+.cart span {
+  font-size: 32px;
+}
+
+.header h2 {
+  background: linear-gradient(45deg, rgba(0,51,51,1) 0%, rgba(5,193,255,1) 50%, rgba(0,51,51,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

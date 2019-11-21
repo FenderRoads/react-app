@@ -1,0 +1,7 @@
+.clock {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--orange);
+  font-size: 1.5em;
+}
